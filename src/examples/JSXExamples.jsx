@@ -1,4 +1,4 @@
-
+import React from "react";
 function JSXExamples() {
   const course = "React.js";
 

@@ -1,3 +1,4 @@
+import React from "react";
 function ProfileCard({ name, role }) {
   return (
     <article className="card">

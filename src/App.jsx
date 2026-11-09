@@ -1,3 +1,4 @@
+import React from "react";
 import Greeting from "./components/Greeting.jsx";
 import ProfileCard from "./components/ProfileCard.jsx";
 import JSXExamples from "./examples/JSXExamples.jsx";
