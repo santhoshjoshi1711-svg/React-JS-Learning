@@ -1,0 +1,25 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  color: #202536;
+}
+
+main {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 28px;
+  background: white;
+  border-radius: 14px;
+}
+
+section {
+  margin-top: 28px;
+}
+
+.card {
+  padding: 16px;
+  margin: 10px 0;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+}
